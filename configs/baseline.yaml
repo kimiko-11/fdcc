@@ -1,0 +1,9 @@
+dataset: cifar10
+model: resnet18
+batch_size: 128
+epochs: 100
+learning_rate: 0.1
+random_seed: 42
+checkpoint_dir: checkpoints/
+results_dir: results/
+device: cuda
