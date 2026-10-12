@@ -1,0 +1,3 @@
+dataset,corruption,severity,accuracy_percent,mean_confidence_percent,ece_15_bins,brier_score,ece_percent
+Clean CIFAR-10,none,0,81.45,88.0163,0.0657,0.2727,6.5663
+CIFAR-10-C,gaussian_noise,1,71.81,84.9557,0.1317,0.4243,13.1671
