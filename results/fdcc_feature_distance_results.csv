@@ -1,0 +1,11 @@
+Metric,Value
+Mean feature distance,6.3097381591796875
+Median feature distance,5.928674697875977
+Feature distance SD,2.5412192344665527
+Mean distance — correct predictions,6.150000095367432
+Mean distance — incorrect predictions,6.71664571762085
+Accuracy under Gaussian noise (%),71.81
+Distance vs correctness Spearman correlation,-0.1003
+Distance vs correctness p-value,8.53278e-24
+Distance vs confidence Spearman correlation,-0.1315
+Distance vs confidence p-value,8.50083e-40
