@@ -1,0 +1,5 @@
+Metric,Value
+Accuracy (%),81.45
+Mean confidence (%),88.01628112792969
+ECE (15 bins),0.06566281391531231
+Multiclass Brier score,0.2726790316054534
